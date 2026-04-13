@@ -1,0 +1,226 @@
+{
+  "samples": [
+    {
+      "file": "sample_01_c1_crack.png",
+      "source": "D:/PhD/Datasets/segmentation/CRKWH100/images\\1081.png",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 2,
+      "image_size": {
+        "width": 512,
+        "height": 512
+      },
+      "resized_from": {
+        "width": 512,
+        "height": 512
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_01_c1_crack_annotation.polygons.json",
+      "slider_ready": true
+    },
+    {
+      "file": "sample_02_c1_crack.png",
+      "source": "D:/PhD/Datasets/segmentation/CRKWH100/images\\1014.png",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 1,
+      "image_size": {
+        "width": 512,
+        "height": 512
+      },
+      "resized_from": {
+        "width": 512,
+        "height": 512
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_02_c1_crack_annotation.polygons.json",
+      "slider_ready": true
+    },
+    {
+      "file": "sample_03_c1_crack.png",
+      "source": "D:/PhD/Datasets/segmentation/CRKWH100/images\\1086.png",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 1,
+      "image_size": {
+        "width": 512,
+        "height": 512
+      },
+      "resized_from": {
+        "width": 512,
+        "height": 512
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_03_c1_crack_annotation.polygons.json",
+      "slider_ready": true
+    },
+    {
+      "file": "sample_04_c1_crack.png",
+      "source": "D:/PhD/Datasets/segmentation/CRKWH100/images\\1057.png",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 1,
+      "image_size": {
+        "width": 512,
+        "height": 512
+      },
+      "resized_from": {
+        "width": 512,
+        "height": 512
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_04_c1_crack_annotation.polygons.json",
+      "slider_ready": true
+    },
+    {
+      "file": "sample_05_c1_crack.png",
+      "source": "D:/PhD/Datasets/segmentation/CRKWH100/images\\1089.png",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 1,
+      "image_size": {
+        "width": 512,
+        "height": 512
+      },
+      "resized_from": {
+        "width": 512,
+        "height": 512
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_05_c1_crack_annotation.polygons.json",
+      "slider_ready": true
+    },
+    {
+      "file": "sample_06_c1_crack.png",
+      "source": "D:/PhD/Datasets/segmentation/CRKWH100/images\\1095.png",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 1,
+      "image_size": {
+        "width": 512,
+        "height": 512
+      },
+      "resized_from": {
+        "width": 512,
+        "height": 512
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_06_c1_crack_annotation.polygons.json",
+      "slider_ready": true
+    },
+    {
+      "file": "sample_07_c1_crack.png",
+      "source": "D:/PhD/Datasets/segmentation/CRKWH100/images\\1074.png",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 1,
+      "image_size": {
+        "width": 512,
+        "height": 512
+      },
+      "resized_from": {
+        "width": 512,
+        "height": 512
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_07_c1_crack_annotation.polygons.json",
+      "slider_ready": true
+    },
+    {
+      "file": "sample_08_c1_crack.png",
+      "source": "D:/PhD/Datasets/segmentation/CRKWH100/images\\1038.png",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 1,
+      "image_size": {
+        "width": 512,
+        "height": 512
+      },
+      "resized_from": {
+        "width": 512,
+        "height": 512
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_08_c1_crack_annotation.polygons.json",
+      "slider_ready": true
+    },
+    {
+      "file": "sample_09_c1_crack.png",
+      "source": "D:/PhD/Datasets/segmentation/CRKWH100/images\\1078.png",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 1,
+      "image_size": {
+        "width": 512,
+        "height": 512
+      },
+      "resized_from": {
+        "width": 512,
+        "height": 512
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_09_c1_crack_annotation.polygons.json",
+      "slider_ready": true
+    },
+    {
+      "file": "sample_10_c1_crack.png",
+      "source": "D:/PhD/Datasets/segmentation/CRKWH100/images\\1048.png",
+      "classes": [
+        "crack"
+      ],
+      "num_classes": 1,
+      "objects": 1,
+      "image_size": {
+        "width": 512,
+        "height": 512
+      },
+      "resized_from": {
+        "width": 512,
+        "height": 512
+      },
+      "annotation_mode": "mask",
+      "annotation_format": "polygon",
+      "annotated_file": null,
+      "annotation_file": "annotations/sample_10_c1_crack_annotation.polygons.json",
+      "slider_ready": true
+    }
+  ],
+  "count": 10,
+  "slider_pairs": 10
+}
