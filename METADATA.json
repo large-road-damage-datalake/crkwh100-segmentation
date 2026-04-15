@@ -100,22 +100,22 @@
     },
     {
       "name": "Zheng Zhang",
-      "affiliation": "Not reported",
-      "role": "Dataset Creator"
-    },
-    {
-      "name": "Qingquan Li",
       "affiliation": "Wuhan University",
       "role": "Dataset Creator"
     },
     {
+      "name": "Qingquan Li",
+      "affiliation": "Shenzhen University",
+      "role": "Dataset Creator"
+    },
+    {
       "name": "Xianbiao Qi",
-      "affiliation": "Not reported",
+      "affiliation": "Shenzhen Research Institute of Big Data",
       "role": "Dataset Creator"
     },
     {
       "name": "Qian Wang",
-      "affiliation": "Not reported",
+      "affiliation": "Wuhan University",
       "role": "Dataset Creator"
     },
     {
@@ -145,7 +145,7 @@
   ],
   "source_publication": {
     "dataset_doi": "Not provided",
-    "article_doi": "Not provided",
+    "article_doi": "10.1109/TIP.2018.2878966",
     "article_title": "DeepCrack: Learning Hierarchical Convolutional Features for Crack Detection",
     "journal": "IEEE Transactions on Image Processing",
     "year": 2019
