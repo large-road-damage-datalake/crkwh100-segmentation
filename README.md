@@ -6,7 +6,7 @@ CRKWH100 is a task-specific segmentation package derived from the DeepCrack data
 
 - Task: segmentation
 - Images: 100
-- Annotations: 264
+- Annotations: 256
 - Classes: 1 (crack)
 - Annotation format: paired bitmap masks
 
